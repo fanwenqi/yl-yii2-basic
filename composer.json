@@ -1,8 +1,8 @@
 {
-    "name": "yiisoft/yii2-app-basic",
+    "name": "yl-yii2-basic",
     "description": "Yii 2 Basic Project Template",
-    "keywords": ["yii2", "framework", "basic", "project template"],
-    "homepage": "http://www.yiiframework.com/",
+    "keywords": ["yii2", "framework", "fanwenqi", "project template"],
+    "homepage": "https://github.com/fanwenqi",
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
